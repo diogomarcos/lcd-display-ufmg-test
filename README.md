@@ -6,11 +6,6 @@ Introdução
 Esse projeto tem como objetivo realizar a apresentação da resolução do problema do LCD Display. 
 O enunciado do teste está presente no diretório `pdf/enunciado-teste.pdf`
 
-Regras da aplicação
----------------------------
-+ Página com todas as mídias cadastradas
-+ Filtro para escolher as mídias de acordo com a categoria
-
 ### Tecnologias usadas
 Para o desenvolvimento da resolução do problema foram utilizados os seguintes recursos:
 
