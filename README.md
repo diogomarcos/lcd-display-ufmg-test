@@ -32,6 +32,11 @@ Para testar a resolução do problema desenvolvida em C e PHP, basta seguir os s
 
         http://lcd-display-ufmg-test.diogomarcos.com/
 
+### Considerações Complementares
+1. A resolução realizada na linguagem C encontra-se no diretório `c/LcdDisplay.c`;
+
+2. A resolução realizada na linguagem PHP encontra-se no diretório `php/LcdDisplay.php` e o `php/index.php` como arquivo auxiliar para a sua execução.
+
 ### Resultado do Desenvolvimento
 Abaixo estão disponibilizados as telas da aplicação:
 
